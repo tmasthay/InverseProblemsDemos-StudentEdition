@@ -1,0 +1,4 @@
+Relevant Videos:
+
+Inverse Problems 7: Gradient Descent+Wolfe Conditions (Optimization 1)
+Inverse Problems 8: Line Search Methods (Optimization 2)
